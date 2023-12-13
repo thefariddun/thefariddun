@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fariddun
 - I am student at National University of Uzbekistan
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning C++ and Java Spring boot
+- 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me ...
 https://t.me/CybMentor
 
